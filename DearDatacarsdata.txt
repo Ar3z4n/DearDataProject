@@ -36,3 +36,35 @@ Toyota, 13:57, 19/10/26, Red
 Honda, 13:58, 19/10/26, Black
 Audi, 13:58, 19/10/26, Black
 Audi, 13:58, 19/10/26, Blue
+Mitsubishi,	13:59, 19/10/26, Red
+Kia	14:00, 20/10/26, Red
+Ford, 14:01, 20/10/26, Black
+BMW, 14:02, 20/10/26, White
+Kia, 14:03, 20/10/26, Grey
+Audi, 14:04, 20/10/26, Blue
+Toyota, 14:05, 20/10/26, Black
+Mercedes, 14:06, 20/10/26, Silver
+Nissan, 14:07, 20/10/26, White
+Tesla, 14:08, 20/10/26, Black
+Volkswagen, 14:09, 20/10/26, Grey
+Hyundai, 14:10, 20/10/26, White
+Range Rover, 14:11, 20/10/26, Black
+MG, 14:12, 20/10/26, Red
+Honda, 14:13, 20/10/26, Silver
+Porsche, 14:14, 20/10/26, Blue
+Ford, 14:15, 20/10/26, Grey
+Toyota, 14:16, 20/10/26, White
+BMW, 14:17, 20/10/26, Black
+Audi, 14:18, 20/10/26, Grey
+Kia, 14:19, 20/10/26, Blue
+Mercedes, 14:20, 20/10/26, Black
+Nissan, 14:21, 20/10/26, Red
+Volkswagen, 14:22, 20/10/26, White
+Tesla, 14:23, 20/10/26, Blue
+Toyota, 14:24, 20/10/26, Grey
+Hyundai, 14:25, 20/10/26, Black
+Range Rover, 14:26, 20/10/26, White
+Ford, 14:27, 20/10/26, Blue
+BMW, 14:28, 20/10/26, Silver
+Audi, 14:29, 20/10/26, Black
+MG, 14:30, 20/10/26, White
